@@ -17,3 +17,6 @@ List of papers
 
 [ ] Bolei Zhou, Object Detectors Emerge in Deep Scene Cnns.
 
+[ ] Jiaolong Yang, Go-ICP: Solving 3D Registration Efficiently and Globally Optimally.
+
+[ ] Hongdong Li, The 3D-3D Registration Problem Revisited.
